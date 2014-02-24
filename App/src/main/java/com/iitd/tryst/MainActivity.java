@@ -20,7 +20,6 @@ public class MainActivity extends MainDrawerActivity
     @Override
     public void setTopFragments() {
         topFragments = new Fragment[] {
-                AboutFragment.newInstance("a", "a"),
                 DayTwoFragment.newInstance("Day 2, 27th Feb", "27"),
                 DayThreeFragment.newInstance("Day 3, 28th Feb", "28"),
                 DayFourFragment.newInstance("Day 4, 1st Mar", "1"),
@@ -31,7 +30,6 @@ public class MainActivity extends MainDrawerActivity
     @Override
     public void setTopFragmentNames() {
         topFragmentNames = new String[] {
-                "About",
                 "Day 2, 27th Feb",
                 "Day 3, 28th Feb",
                 "Day 4, 1st Mar",
