@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="event_names">
+        <item>"Autonomous Robotics"</item>
+        <item>"8051 Embedded Systems"</item>
+        <item>"Android"</item>
+        <item>"Web Development"</item>
+        <item>"Quadcopter"</item>
+        <item>"Ethical Hacking"</item>
+        <item>"Cloud Computing"</item>
+        <item>"Automobile Engine Design"</item>
+        <item>"Paper Presentation"</item>
+        <item>"Fake Research"</item>
+        <item>"Archetypal Professor"</item>
+        <item>"Snap It"</item>
+        <item>"Fly It"</item>
+        <item>"Fastest Fingers First"</item>
+        <item>"Rubik-Site"</item>
+        <item>"Nerdy Me"</item>
+        <item>"Green Dream"</item>
+        <item>"Tech MUN"</item>
+        <item>"Energy-preneur"</item>
+        <item>"Energy Quotient"</item>
+        <item>"Bio-Athlon"</item>
+        <item>"Texword"</item>
+        <item>"Treasure Hunt"</item>
+        <item>"Monographia"</item>
+        <item>"Palace of Cards"</item>
+        <item>"Golden Gate"</item>
+        <item>"Metaphora"</item>
+        <item>"Panel Talk"</item>
+        <item>"Marathon(quiz)"</item>
+        <item>"Analogic"</item>
+        <item>"Electronics Quiz"</item>
+        <item>"Embedtrix"</item>
+        <item>"Junkyard Electronics"</item>
+        <item>"Automotive Geeks"</item>
+        <item>"Dexigner"</item>
+        <item>"Business Case Study Competition"</item>
+        <item>"Vishishth"</item>
+        <item>"Arjun"</item>
+        <item>"Escape Tunnel"</item>
+    </string-array>
+
+    <string-array name="event_venues">
+        <item>"TBD"</item>
+        <item>"IV-LT-1"</item>
+        <item>"III-LT-2"</item>
+        <item>"IV-LT-1"</item>
+        <item>"III-LT-2"</item>
+        <item>"V-LT-1"</item>
+        <item>"V-LT-1"</item>
+        <item>"III-LT-1"</item>
+        <item>"VI-LT-1, VI-LT-2"</item>
+        <item>"TBD"</item>
+        <item>"IV-LT-2"</item>
+        <item>"online"</item>
+        <item>"Biotech lawns"</item>
+        <item>"II-LT-2"</item>
+        <item>"IV-LT-3"</item>
+        <item>"IV-LT-2"</item>
+        <item>"II-LT-3"</item>
+        <item>"Bharti-201"</item>
+        <item>"V-417"</item>
+        <item>"V-418"</item>
+        <item>"TX-120"</item>
+        <item>"TBD"</item>
+        <item>"online"</item>
+        <item>"Civil Engineering department"</item>
+        <item>"Civil Engineering department"</item>
+        <item>"Civil Department ( Computational Lab)"</item>
+        <item>"Civil Department (committee room)"</item>
+        <item>"Seminar hall"</item>
+        <item>"II-LT-3"</item>
+        <item>"SAC"</item>
+        <item>"II-LT-1, II-LT-3"</item>
+        <item>"SAC"</item>
+        <item>"II-402"</item>
+        <item>"TBD"</item>
+        <item>"TBD"</item>
+        <item>"II-LT-2"</item>
+        <item>"Bharti-201, Bharti-204"</item>
+        <item>"SAC"</item>
+        <item>"SAC"</item>
+    </string-array>
+
+    <string-array name="event_category">
+        <item>"Workshop"</item>
+        <item>"Workshop"</item>
+        <item>"Workshop"</item>
+        <item>"Workshop"</item>
+        <item>"Workshop"</item>
+        <item>"Workshop"</item>
+        <item>"Workshop"</item>
+        <item>"Workshop"</item>
+        <item>"FlagShip Event"</item>
+        <item>"FlagShip Event"</item>
+        <item>"FlagShip Event"</item>
+        <item>"FlagShip Event"</item>
+        <item>"FlagShip Event"</item>
+        <item>"FlagShip Event"</item>
+        <item>"FlagShip Event"</item>
+        <item>"FlagShip Event"</item>
+        <item>"FlagShip Event"</item>
+        <item>"FlagShip Event"</item>
+        <item>"CES Dept Event"</item>
+        <item>"CES Dept Event"</item>
+        <item>"Biochemical Dept event"</item>
+        <item>"Textile Dept Event"</item>
+        <item>"Textile Dept Event"</item>
+        <item>"Civil Dept Event"</item>
+        <item>"Civil Dept Event"</item>
+        <item>"Civil Dept Event"</item>
+        <item>"Civil Dept Event"</item>
+        <item>"Civil Dept Event"</item>
+        <item>"Civil Dept Event"</item>
+        <item>"Electronics Club Event"</item>
+        <item>"Electronics Club Event"</item>
+        <item>"Electronics Club Event"</item>
+        <item>"Electronics Club Event"</item>
+        <item>"FSAE Club Event"</item>
+        <item>"FSAE Club Event"</item>
+        <item>"eDC Club Event"</item>
+        <item>"eDC Club Event"</item>
+        <item>"Robotics Club Event"</item>
+        <item>"Robotics Club Event"</item>
+    </string-array>
+
+    <string-array name="event_dates">
+        <item>"27"</item>
+        <item>"27"</item>
+        <item>"27"</item>
+        <item>"27"</item>
+        <item>"27"</item>
+        <item>"27"</item>
+        <item>"27"</item>
+        <item>"27"</item>
+        <item>"28"</item>
+        <item>"0"</item>
+        <item>"27"</item>
+        <item>"0"</item>
+        <item>"28"</item>
+        <item>"1"</item>
+        <item>"1"</item>
+        <item>"28"</item>
+        <item>"1"</item>
+        <item>"28"</item>
+        <item>"27"</item>
+        <item>"27"</item>
+        <item>"27"</item>
+        <item>"0"</item>
+        <item>"0"</item>
+        <item>"28"</item>
+        <item>"28"</item>
+        <item>"28"</item>
+        <item>"1"</item>
+        <item>"1"</item>
+        <item>"27"</item>
+        <item>"1"</item>
+        <item>"27"</item>
+        <item>"28"</item>
+        <item>"27"</item>
+        <item>"0"</item>
+        <item>"0"</item>
+        <item>"27"</item>
+        <item>"27"</item>
+        <item>"28"</item>
+        <item>"27"</item>
+    </string-array>
+</resources>
