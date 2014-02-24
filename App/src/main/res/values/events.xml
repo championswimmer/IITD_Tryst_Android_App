@@ -167,4 +167,46 @@
         <item>"28"</item>
         <item>"27"</item>
     </string-array>
+
+    <string-array name="event_contacts">
+        <item>"Madhur Gupta - +919971557205"</item>
+        <item>"Madhur Gupta - +919971557205"</item>
+        <item>"Madhur Gupta - +919971557205"</item>
+        <item>"Madhur Gupta - +919971557205"</item>
+        <item>"Madhur Gupta - +919971557205"</item>
+        <item>"Madhur Gupta - +919971557205"</item>
+        <item>"Madhur Gupta - +919971557205"</item>
+        <item>"Madhur Gupta - +919971557205"</item>
+        <item>"Rahul Singhani: +91-9971433140"</item>
+        <item>"Rahul Singhani: +91-9971433140"</item>
+        <item>"Rahul Singhani: +91-9971433140"</item>
+        <item>"Devesh Vij: 9910075537"</item>
+        <item>"Devesh Vij: 9910075537"</item>
+        <item>"Devesh Vij: 9910075537"</item>
+        <item>"Rahul Singhani: +91-9971433140"</item>
+        <item>"Madhur Gupta - +919971557205"</item>
+        <item>"Rahul Singhani: +91-9971433140"</item>
+        <item>"Rahul Singhani: +91-9971433140"</item>
+        <item>"Abhinav Saxena: +91-8447380936"</item>
+        <item>"Kaustubh Pande: +91-9717693072"</item>
+        <item>"Kalki Kukreja: 9873214589"</item>
+        <item>"Deven Vij: 9717256785"</item>
+        <item>"Deven Vij: 9717256785"</item>
+        <item>"Kirti Jangra: 9717478596"</item>
+        <item>"Ayush Jaiswal 9560955450 "</item>
+        <item>"Shailesh K. Bohra 9718182602 "</item>
+        <item>"Rajat Jain: 9868861880"</item>
+        <item>"Parth Tyagi: 9013757373"</item>
+        <item>"Kirti Jangra: 9717478596"</item>
+        <item>"Rahul Trivedi: 8285236738"</item>
+        <item>"Nitin Kamra: 9971249885"</item>
+        <item>"Nitin Kamra: 9971249885"</item>
+        <item>"Utkarsh Sharma: 9711578194"</item>
+        <item>"Madhur Gupta - +919971557205"</item>
+        <item>"Madhur Gupta - +919971557205"</item>
+        <item>"Shivansh Aggarwal: 9953122499"</item>
+        <item>"Agam Goel: 9013151302"</item>
+        <item>"Madhur Gupta - +919971557205"</item>
+        <item>"Madhur Gupta - +919971557205"</item>
+    </string-array>
 </resources>

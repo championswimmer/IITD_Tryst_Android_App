@@ -32,7 +32,7 @@ public class DayTwoFragment extends Fragment {
     private String mParam1;
     private String mParam2;
 
-    private String[] eventNames, eventVenues, eventCategories, eventDates;
+    private String[] eventNames, eventVenues, eventCategories, eventDates, eventContacts;
 
     private OnFragmentInteractionListener mListener;
 
@@ -75,16 +75,19 @@ public class DayTwoFragment extends Fragment {
         eventDates = getResources().getStringArray(R.array.event_dates);
         eventNames = getResources().getStringArray(R.array.event_names);
         eventVenues = getResources().getStringArray(R.array.event_venues);
+        eventContacts = getResources().getStringArray(R.array.event_contacts);
 
         final String[] finalEnames = new String[100];
         final String[] finalECategories = new String[100];
         final String[] finalEVenues = new String[100];
+        final String[] finalEContacts = new String[100];
         int len = 0;
         for (int i =0, j=0; i < eventNames.length; i++) {
             if (eventDates[i].equalsIgnoreCase("27")) {
                 finalEnames[j]=eventNames[i];
                 finalECategories[j]=eventCategories[i];
                 finalEVenues[j]=eventVenues[i];
+                finalEContacts[j]=eventContacts[i];
                 j++; len++;
             }
         }
@@ -115,10 +118,12 @@ public class DayTwoFragment extends Fragment {
                     TextView eName = (TextView) vi.findViewById(R.id.event_name);
                     TextView eVenue = (TextView) vi.findViewById(R.id.event_venue);
                     TextView eCategory = (TextView) vi.findViewById(R.id.event_category);
+                    TextView eContact = (TextView) vi.findViewById(R.id.event_contact);
 
                     eName.setText(finalEnames[i]);
                     eCategory.setText(finalECategories[i]);
                     eVenue.setText(finalEVenues[i]);
+                    eContact.setText(finalEContacts[i]);
 
                 }
 

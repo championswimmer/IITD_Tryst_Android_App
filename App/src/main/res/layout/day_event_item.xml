@@ -44,4 +44,25 @@
         android:layout_alignParentEnd="true"
         android:layout_toRightOf="@+id/event_name"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:id="@+id/event_contact"
+        android:layout_alignBottom="@+id/event_category"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Contact:"
+        android:id="@+id/contact"
+        android:layout_alignBottom="@+id/event_category"
+        android:layout_toLeftOf="@+id/event_contact"/>
+
 </RelativeLayout>
